@@ -49,7 +49,7 @@ A custom extension for **GDevelop 5** that synchronizes the scene's 3D camera wi
 ### Step 1: Import the Extension
 1. In GDevelop, open the left panel and click on **Extensions**.
 2. Click **Import an extension** at the bottom.
-3. Choose the [`BlockbenchCamera_EN.json`](BlockbenchCamera_EN.json) file.
+3. Choose the [[`BlockbenchCamera.json`](BlockbenchCamera.json](https://github.com/Bitik-original/Blockbench-Camera-Animation/releases)) file.
 
 ### Step 2: Add the 3D Model
 1. In the Object panel, click **Add a new object ➔ 3D Model**.
